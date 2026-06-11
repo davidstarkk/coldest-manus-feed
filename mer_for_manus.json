@@ -1,21 +1,21 @@
 {
-  "as_of": "2026-06-09",
-  "computed_at": "2026-06-10T14:11:37.811888+00:00",
-  "mer_7d_pooled": 3.48,
-  "mer_30d_pooled": 3.9657,
+  "as_of": "2026-06-10",
+  "computed_at": "2026-06-11T13:53:53.279575+00:00",
+  "mer_7d_pooled": 3.6323,
+  "mer_30d_pooled": 3.8314,
   "mer_target": 3.24,
   "mer_breakeven": 2.18,
   "status": "ON_TARGET",
-  "delta_dod": 0.0823,
-  "delta_wow": -0.4184,
-  "rev_7d": 726321.73,
-  "spend_7d": 208710.75,
-  "profit_7d": 107972.1,
-  "net_margin_7d_pct": 14.87,
+  "delta_dod": 0.1523,
+  "delta_wow": -0.1331,
+  "rev_7d": 735898.85,
+  "spend_7d": 202597.03,
+  "profit_7d": 119076.49,
+  "net_margin_7d_pct": 16.18,
   "budget_recommendation": {
     "action": "INCREASE",
     "magnitude": "small",
-    "reason": "Rolling MER 3.48x is above target (3.24x). Modest 5% scale-up on top performers."
+    "reason": "Rolling MER 3.63x is above target (3.24x). Modest 5% scale-up on top performers."
   },
   "schema_version": "1.0",
   "_notes": "Stable contract for Manus budget agent. Field names will not change without coordinated update. Source: pooled MER over trailing 7 EDT calendar days (sum revenue / sum ad spend)."
